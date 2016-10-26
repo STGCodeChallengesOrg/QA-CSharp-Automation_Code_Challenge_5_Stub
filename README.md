@@ -1,4 +1,5 @@
 QA CSharp Automation Code Challenge #5 (Use search and get info)
+
 Go to https://www.skiutah.com/members/listing
 
 Write a method that will allow me to pass in 3 string parameters (What, By Resort, Sub Category)
